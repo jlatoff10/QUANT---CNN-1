@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "FinancialEvaluation"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\farqu\\Downloads\\commons-net-3.9.0-bin\\commons-net-3.9.0\\commons-net-3.9.0.jar",
+			"c:\\Users\\farqu\\Downloads\\commons-net-3.9.0-bin\\commons-net-3.9.0\\commons-net-3.9.0-sources.jar",
+			"c:\\Users\\farqu\\Downloads\\commons-net-3.9.0-bin\\commons-net-3.9.0\\commons-net-examples-3.9.0.jar",
+			"c:\\Users\\farqu\\Downloads\\jar_files\\commons-math3-3.6.1.jar"
+		]
+	}
+}
